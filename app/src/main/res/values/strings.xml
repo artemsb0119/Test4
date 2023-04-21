@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Testovoe4</string>
+    <string name="football">FOOTBALL</string>
+    <string name="basketball">BASKETBALL</string>
+    <string name="hockey">HOCKEY</string>
+    <string name="settings">SETTINGS</string>
+    <string name="retry">RETRY</string>
+    <string name="notifications">NOTIFICATIONS</string>
+    <string name="clear_progress">CLEAR PROGRESS</string>
+</resources>

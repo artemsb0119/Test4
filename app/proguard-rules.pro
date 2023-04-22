@@ -19,3 +19,11 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+-keep class com.example.testovoe4.Quiz {
+    <fields>;
+}
+
+-keepclassmembers class com.example.testovoe4.Quiz {
+    @com.google.gson.annotations.SerializedName <fields>;
+}

@@ -1,18 +1,11 @@
 package com.example.testovoe4
 
-import Quiz
-import android.app.Activity
 import android.content.Intent
 import android.os.Bundle
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.AppCompatButton
 import com.bumptech.glide.Glide
-import com.google.gson.Gson
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.GlobalScope
-import kotlinx.coroutines.launch
-import java.net.URL
 
 class MenuActivity : AppCompatActivity() {
 

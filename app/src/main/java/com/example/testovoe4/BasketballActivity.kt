@@ -1,6 +1,5 @@
 package com.example.testovoe4
 
-import Quiz
 import android.app.Activity
 import android.content.Context
 import android.content.Intent

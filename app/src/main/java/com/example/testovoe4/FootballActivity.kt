@@ -1,11 +1,9 @@
 package com.example.testovoe4
 
-import Quiz
 import android.app.Activity
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
-import android.preference.PreferenceManager
 import android.util.Log
 import android.view.KeyEvent
 import android.widget.ImageView
